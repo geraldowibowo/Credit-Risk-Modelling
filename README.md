@@ -9,3 +9,5 @@ The preprocessing file will create a new 4 CSV file:
 - 'loan_data_targets_train.csv'
 - 'loan_data_inputs_test.csv'
 - 'loan_data_targets_test.csv'
+
+These 4 CSV files will be used in the Credit Risk Modelling Python code
